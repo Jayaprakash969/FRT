@@ -1,0 +1,77 @@
+MYSQL Link:
+----------------
+Server - futurereadytalentuat.mysql.database.azure.com 
+username=sqladmin
+password=I@n2!$nPO&3!@l
+ssl-mode=require
+
+Development Link:
+--------------------------
+http://internshipportal-app-dev.azurewebsites.net/
+
+Development DB Server:
+------------------------------
+Server=tcp:internshipportal-sqlsrv-dev.database.windows.net,1433
+User ID=sqladmin9281
+Password=I@n2!$nPO&3!@l
+sairam.melusuri@gmail.com
+
+Prod - Support
+----------------------
+Server - tcp:internshipportal-sqlsrv-prod.database.windows.net,1433
+DataBase - internshipportal-sqldb-prod
+UserName - FRTReader
+Password - Xencia@123
+
+Login Details for Test:
+-------------------------------
+Ilangovan@yahoo.com
+Xencia@123
+
+sumathi_rangan@hotmail.com
+Xencia@123
+
+outerWidth
+.forminitt input
+pro-upload
+https://docs.microsoft.com/en-us/users/sarayumallam-2705/
+
+https://account.microsoft.com/profile
+Wants to update the MS learn URL, but can't
+
+goutamkumar@xencia.com
+Xencia123
+
+jayaprakash.varuna@outlook.com
+Tamil@123
+
+v-gkatha@microsoft.com
+Test@123
+
+chkCertificate
+downloadcertificatealert
+
+First course then Specialization
+Heading font little less.
+Add instructions.
+
+https://docs.microsoft.com/en-us/users/gunjankathariyaushtateconsultancys-8960/
+
+jayaprakash.s@xencia.com	
+Jprakash@1991
+
+function selectAll()
+{
+    $("input[name='ArchiveDataCheck']").attr('checked', 'checked');
+}
+
+
+Linkedin
+212121@12
+
+Github
+s.jayaprakash3@gmail.com
+JpTamil@123
+
+"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"
+
